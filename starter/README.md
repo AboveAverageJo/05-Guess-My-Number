@@ -6,5 +6,5 @@
 
 # Overview
 
-This small game is one of the projects in a Udemy course for javaScript,
-taught by Jonas Schmedtmann.
+This small game is one of the projects in a Udemy course for javaScript
+and is taught by Jonas Schmedtmann.
